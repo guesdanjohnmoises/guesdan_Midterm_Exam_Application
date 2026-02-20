@@ -34,3 +34,5 @@ class ProductController extends Controller
         return view('products', compact('products'));
     }
 }
+  
+
